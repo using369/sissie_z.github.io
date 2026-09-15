@@ -44,7 +44,7 @@ Conferences:
   
 # 🎖 Honors and Awards
 - *2026.09* First Place in the Challenge on Ultra-Low Bitrate Image Compression at the Low-Level Vision Frontiers (LoViF) in conjunction with ECCV.
-- *2026.09* Third Place in the Subjective Track of the AIGC Image Compression Challenge at the Low-Level Vision Frontiers (LoViF) in conjunction with ECCV
+- *2026.09* Third Place in the Subjective Track of the AIGC Image Compression Challenge at the Low-Level Vision Frontiers (LoViF) in conjunction with ECCV.
 - *2025.11* First Place in the Image Compression CPU Track of the 7th Challenge on Learned Image Compression (CLIC) in conjunction with PCS.
 - *2025.11* Third Place in the Image Compression GPU Track of the 7th Challenge on Learned Image Compression (CLIC) in conjunction with PCS.
 - *2025.05* First Prize of National Artificial Intelligence Challenge 'AI+Image Coding'.
