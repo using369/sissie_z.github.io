@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About me
 I am a Ph.D. student at the School of Remote Sensing and Information Engineering, Wuhan University, under the supervision of Prof. Zhenzhong Chen.
 
 My research interest includes image and video coding, learned compression, and coding for machine vision.
