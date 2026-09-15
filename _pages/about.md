@@ -33,7 +33,7 @@ Journals:
 - **Junxi Zhang**, Zhenzhong Chen, Shan Liu: Remote Sensing Image Coding for Machines on Semantic Segmentation via Contrastive Learning. IEEE Transactions on Geoscience and Remote Sensing. 62: 1-13 (2024)
 - **Junxi Zhang**\*, Xiang Pan\*, Zhenzhong Chen, Shan Liu: Efficient JPEG-AI Image Coding for Remote Sensing Semantic Segmentation. IEEE Geoscience and Remote Sensing Letters. 22: 1-5 (2025)
 
-Conference:
+Conferences:
 - Xiaoyue Ling et al., **Junxi Zhang**, Qizhi Huang, Yifei Wang, Wenzhuo Ma, Zhenzhong Chen. LoViF 2026 Challenge on Ultra-Low Bitrate Image Compression: Methods and Results. European Conference on Computer Vision Workshops (ECCVW), 2026.
 - Xin Li et al., Qizhi Huang, **Junxi Zhang**, Yifei Wang, Wenzhuo Ma. LoViF 2026 AIGC Image Compression Challenge: Methods and Results. European Conference on Computer Vision Workshops (ECCVW), 2026.
 - Xinxin Chen, Nianxiang Fu, Wenzhuo Zhang, **Junxi Zhang**, Ding Ding, Wenzhuo Ma, Zhenzhong Chen. On Performance of NNVC Inter-Coding. IEEE International Symposium on Circuits and Systems (ISCAS, Oral), 2026.
